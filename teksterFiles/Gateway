@@ -1,0 +1,3 @@
+GATEWAY = 'http://www.tekster.sf.net/'
+AUTHENTICATION = 'http://www.hacore.sf.net/auth'
+EHLO = 'TEKSTER 4.0'

@@ -1,0 +1,79 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>acciones-instantáneas-hotmail.png</file>
+    <file>Ambivalent.png</file>
+    <file>Ambivalent@2x.png</file>
+    <file>Angel.png</file>
+    <file>Angel@2x.png</file>
+    <file>Angry.png</file>
+    <file>Angry@2x.png</file>
+    <file>bg.PNG</file>
+    <file>Blush.png</file>
+    <file>Blush@2x.png</file>
+    <file>Confused.png</file>
+    <file>Confused@2x.png</file>
+    <file>Crazy.png</file>
+    <file>Crazy@2x.png</file>
+    <file>Crying.png</file>
+    <file>Crying@2x.png</file>
+    <file>Foot In Mouth.png</file>
+    <file>Foot In Mouth@2x.png</file>
+    <file>Frown.png</file>
+    <file>Frown@2x.png</file>
+    <file>Gasp.png</file>
+    <file>Gasp@2x.png</file>
+    <file>gel-text-styles.png</file>
+    <file>GMAIL ICON.png</file>
+    <file>Grin.png</file>
+    <file>Grin@2x.png</file>
+    <file>hacoresec.png</file>
+    <file>Halo.png</file>
+    <file>Halo@2x.png</file>
+    <file>Heart.png</file>
+    <file>Heart@2x.png</file>
+    <file>Hot.png</file>
+    <file>Hot@2x.png</file>
+    <file>Kiss.png</file>
+    <file>Kiss@2x.png</file>
+    <file>LargeGasp.png</file>
+    <file>LargeGasp@2x.png</file>
+    <file>Laugh@2x.png</file>
+    <file>linen_bg_tile.jpg</file>
+    <file>Lips are Sealed.png</file>
+    <file>Lips are Sealed@2x.png</file>
+    <file>logo_mail.png</file>
+    <file>Money-mouth.png</file>
+    <file>Money-mouth@2x.png</file>
+    <file>Naughty.png</file>
+    <file>Naughty@2x.png</file>
+    <file>Nerd.png</file>
+    <file>Nerd@2x.png</file>
+    <file>ohnoes.png</file>
+    <file>ohnoes@2x.png</file>
+    <file>Pirate.png</file>
+    <file>Pirate@2x.png</file>
+    <file>RZouYJ1382954267.png</file>
+    <file>Sarcastic.png</file>
+    <file>Sarcastic@2x.png</file>
+    <file>Sick.png</file>
+    <file>Sick@2x.png</file>
+    <file>Smile.png</file>
+    <file>Smile@2x.png</file>
+    <file>Sticking Out Tongue.png</file>
+    <file>Sticking Out Tongue@2x.png</file>
+    <file>Thumbs Down.png</file>
+    <file>Thumbs Down@2x.png</file>
+    <file>Thumbs Up.png</file>
+    <file>Thumbs Up@2x.png</file>
+    <file>Undecided.png</file>
+    <file>Undecided@2x.png</file>
+    <file>Untitled-1.png</file>
+    <file>VeryAngry.png</file>
+    <file>VeryAngry@2x.png</file>
+    <file>windows live mail.png</file>
+    <file>Wink.png</file>
+    <file>Wink@2x.png</file>
+    <file>Yum.png</file>
+    <file>Yum@2x.png</file>
+  </qresource>
+</RCC>
